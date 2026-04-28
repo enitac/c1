@@ -1,6 +1,6 @@
 {
-  "term": "3",
-  "year": "2025",
+  "term": "2",
+  "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
   "nextTermOpens": "",
   "fees": "",
@@ -186,6 +186,6 @@
   },
   "locks": {},
   "passwordEnabled": true,
-  "sneColumnVisible": true,
+  "sneColumnVisible": false,
   "setupPassword": "0000"
 }
