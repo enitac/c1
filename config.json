@@ -62,19 +62,19 @@
   },
   "teachers": {
     "form1": {
-      "Agriculture": "-",
-      "Bible Knowledge": "-",
-      "Biology": "-",
-      "Chemistry": "-",
-      "Clothing and Textile": "-",
-      "Chichewa": "-",
-      "English": "-",
-      "Geography": "-",
-      "History": "-",
-      "Home Economics": "-",
-      "Mathematics": "-",
-      "Physics": "-",
-      "Social/Life": "-"
+      "Agriculture": "MR KALEMBA",
+      "Bible Knowledge": "MR CHIMTSITSI",
+      "Biology": "MISS MAGUGU",
+      "Chemistry": "MR SOSOLA",
+      "Clothing and Textile": "MISS MKONDA",
+      "Chichewa": "MISS HAZWEL",
+      "English": "MRS BANDA",
+      "Geography": "MR MPONDA",
+      "History": "MR KANYANGALA",
+      "Home Economics": "MR MDALA",
+      "Mathematics": "MR CHARLES",
+      "Physics": "MISS KALIWA",
+      "Social/Life": "MRS BANDA"
     },
     "form2": {
       "Agriculture": "MR CHIMTSITSI",
