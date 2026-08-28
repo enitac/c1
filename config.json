@@ -1,4 +1,5 @@
 {
+  "locks": {},
   "term": "3",
   "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
@@ -184,13 +185,20 @@
       "Social/Life": false
     }
   },
-  "locks": {},
   "passwordEnabled": false,
   "sneColumnVisible": false,
   "sexColumnVisible": false,
-  "setupPassword": "1972",
   "studentPasswords": {},
+  "setupPassword": "1972",
   "stampImage": "",
   "stampDate": "",
-  "stampEnabled": true
+  "stampEnabled": true,
+  "hideReaccessSetup": true,
+  "uploadToggles": {
+    "stamp": true,
+    "pasteStudent": true,
+    "passwordGen": true,
+    "pasteGrades": true
+  },
+  "hideVoiceEntry": false
 }
